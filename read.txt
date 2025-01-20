@@ -1,0 +1,11 @@
+admin
+1234
+
+
+
+{
+  "mobile_number": "8106517443",
+  "template_name": "invoice_pdf",
+  "template_variable": ["Bahgath","20-01-2025","https://paleturquoise-jellyfish-674855.hostingersite.com/gimbook3/pdf/INVOICE-INV023.pdf"]
+  
+}
